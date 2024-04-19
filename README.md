@@ -1,8 +1,8 @@
-ENTER YOUR NAME: S.ANUSHARON
-ENTER YOUR REGISTER NO.: 212222240010
-EX. NO.6
-DATE:
- ALIGN =CENTER>Heart attack prediction using MLP
+## ENTER YOUR NAME: S.ANUSHARON
+## ENTER YOUR REGISTER NO.: 212222240010
+## EX. NO.6
+## DATE:
+## Heart attack prediction using MLP
 ## Aim: To construct a  Multi-Layer Perceptron to predict heart attack using Python
 ## Algorithm:
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<BR>
