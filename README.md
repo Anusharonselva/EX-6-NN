@@ -2,9 +2,9 @@ ENTER YOUR NAME: S.ANUSHARON
 ENTER YOUR REGISTER NO.: 212222240010
 EX. NO.6
 DATE:
-<H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
-<H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
-<H3>Algorithm:</H3>
+ ALIGN =CENTER>Heart attack prediction using MLP
+## Aim: To construct a  Multi-Layer Perceptron to predict heart attack using Python
+## Algorithm:
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<BR>
 Step 2:Load the heart disease dataset from a file using pd.read_csv().<BR>
 Step 3:Separate the features and labels from the dataset using data.iloc values for features (X) and data.iloc[:, -1].values for labels (y).<BR>
@@ -68,7 +68,6 @@ print("conf_matrix")
 print("\nClassification Report:")
 print(classification_rep)
 ```
-
 ## Output:
 ![Screenshot 2024-04-19 211332](https://github.com/Anusharonselva/EX-6-NN/assets/119405600/f5d58e5a-74cc-46f2-968a-7c1534c60109)
 ![Screenshot 2024-04-19 211343](https://github.com/Anusharonselva/EX-6-NN/assets/119405600/8f979711-b5c7-4a9d-a64d-f4e1ca9ad3cd)
