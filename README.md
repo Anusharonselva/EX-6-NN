@@ -69,7 +69,7 @@ print("\nClassification Report:")
 print(classification_rep)
 ```
 
-<H3>Output:</H3>
+## Output:
 ![Screenshot 2024-04-19 211332](https://github.com/Anusharonselva/EX-6-NN/assets/119405600/f5d58e5a-74cc-46f2-968a-7c1534c60109)
 ![Screenshot 2024-04-19 211343](https://github.com/Anusharonselva/EX-6-NN/assets/119405600/8f979711-b5c7-4a9d-a64d-f4e1ca9ad3cd)
 ![Screenshot 2024-04-19 211358](https://github.com/Anusharonselva/EX-6-NN/assets/119405600/07b8aa73-fa7b-4d95-822a-5fcf20c8fe12)
